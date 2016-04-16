@@ -99,6 +99,7 @@
     <Build Include="dbo\Stored Procedures\uspBuscarRelacionUsuarioPerfil.sql" />
     <Build Include="dbo\Stored Procedures\uspInsertarRelacionUsuarioPerfil.sql" />
     <Build Include="dbo\Stored Procedures\uspEliminarRelacionUsuarioPerfil.sql" />
+    <Build Include="dbo\Stored Procedures\uspInsertarPerfil.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="CONTADB.refactorlog" />
