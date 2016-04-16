@@ -89,12 +89,12 @@
     <Build Include="dbo\Tables\tbPerfiles.sql" />
     <Build Include="dbo\Tables\tbModulos.sql" />
     <Build Include="dbo\Tables\tbModuloPerfilRol.sql" />
-    <Build Include="dbo\Stored Procedures\uspListarUsuarios_1.sql" />
-    <Build Include="dbo\Stored Procedures\uspListarPermisosPorUsuarioID_1.sql" />
-    <Build Include="dbo\Stored Procedures\uspInsertarUsuario_1.sql" />
-    <Build Include="dbo\Stored Procedures\uspEliminarUsuario_1.sql" />
-    <Build Include="dbo\Stored Procedures\uspBuscarUsuarioPorID_1.sql" />
-    <Build Include="dbo\Stored Procedures\uspActualizarUsuario_1.sql" />
+    <Build Include="dbo\Stored Procedures\uspListarUsuarios.sql" />
+    <Build Include="dbo\Stored Procedures\uspListarPermisosPorUsuarioID.sql" />
+    <Build Include="dbo\Stored Procedures\uspInsertarUsuario.sql" />
+    <Build Include="dbo\Stored Procedures\uspEliminarUsuario.sql" />
+    <Build Include="dbo\Stored Procedures\uspBuscarUsuarioPorID.sql" />
+    <Build Include="dbo\Stored Procedures\uspActualizarUsuario.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="CONTADB.refactorlog" />
